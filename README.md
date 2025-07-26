@@ -4,7 +4,7 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-🎓 I'm **Satyam Raj**, an enthusiastic and curious MCA (Master of Computer Applications) student passionate about building full-stack web applications and smart AI tools.
+🎓 I'm **Satyam Raj**, an enthusiastic student passionate about building full-stack web applications and smart AI tools.
 
 🚀 Currently building **ClariNotes** – an AI-powered PDF note-taker using Next.js, Convex, and Clerk.
 
@@ -13,6 +13,9 @@
 🌱 Actively learning **Next.js**, **ConvexDB**, **LLMs**, and **Cloud Technologies**
 
 🔍 I love solving real-world problems and sharing what I learn through code!
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sandy3559&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Tech Stack -->
 ## 🧰 Tech Stack
